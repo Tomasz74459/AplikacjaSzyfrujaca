@@ -1,0 +1,15 @@
+C:\Users\GM Cedry Wielkie\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.exe
+C:\Users\GM Cedry Wielkie\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.deps.json
+C:\Users\GM Cedry Wielkie\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.runtimeconfig.json
+C:\Users\GM Cedry Wielkie\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.dll
+C:\Users\GM Cedry Wielkie\EncryptionApp\bin\Debug\net7.0-windows\EncryptionApp.pdb
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.csproj.AssemblyReference.cache
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.AssemblyInfoInputs.cache
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.AssemblyInfo.cs
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.dll
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\refint\EncryptionApp.dll
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.pdb
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\EncryptionApp.genruntimeconfig.cache
+C:\Users\GM Cedry Wielkie\EncryptionApp\obj\Debug\net7.0-windows\ref\EncryptionApp.dll
